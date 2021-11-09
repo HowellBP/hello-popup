@@ -5,5 +5,5 @@ import (
 )
 
 func main() {
-	dialog.Message("Hello world!").Title("A message").Info()
+	dialog.Message("Hello.").Title("Message").Info()
 }
